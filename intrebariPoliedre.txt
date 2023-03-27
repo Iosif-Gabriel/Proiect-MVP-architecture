@@ -1,0 +1,4 @@
+Care este aria totala a unui cub cu latura de 4 m?
+Raspuns:Aria totala a cubului cu latura de 4 m este A = 6 x 4 x 4 = 96
+Care este volumul unui cub cu latura de 10 cm?
+Volumul cubului cu latura de 10 cm este V = 10 x 10 x 10 = 1000
